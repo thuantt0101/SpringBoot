@@ -1,0 +1,8 @@
+com\laptrinhjavaweb\api\CourseResource.class
+com\laptrinhjavaweb\service\impl\CoursesHardcodedService.class
+com\laptrinhjavaweb\api\BasicAuthenticationController.class
+com\laptrinhjavaweb\authentication\AuthenticationBean.class
+com\laptrinhjavaweb\authentication\SpringSecurityConfigurationBasicAuth.class
+com\laptrinhjavaweb\dto\Course.class
+com\laptrinhjavaweb\dto\AbstractDTO.class
+com\laptrinhjavaweb\Application.class

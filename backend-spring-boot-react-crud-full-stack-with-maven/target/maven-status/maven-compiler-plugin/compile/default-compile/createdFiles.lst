@@ -1,0 +1,4 @@
+com\laptrinhjavaweb\api\CourseResource.class
+com\laptrinhjavaweb\entity\Course.class
+com\laptrinhjavaweb\service\impl\CoursesHardcodedService.class
+com\laptrinhjavaweb\Application.class
